@@ -7,10 +7,10 @@ This is a real-time video calling application built using **Socket.io** and **We
 ✅ Real-Time Communication using WebRTC  
 ✅ Screen Sharing Feature  
 ✅ Socket.io Signaling for Connection Handling  
-✅ Responsive UI  
+✅ Responsive UI 
 ## Tech Stack  
 - **Frontend**: HTML, CSS, JavaScript,ReactJs  
 - **Backend**: Node.js, ExpressJs  
-- **Real-time Communication**: Socket.io, WebRTC 
+- **Real-time Communication**: Socket.io, WebRTC p2p
 
 
